@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="quantity">Quantity</string>
+    <string name="name">Name</string>
+    <string name="rate">Rate</string>
+    <string name="amount">Amount</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="delete_btn">delete btn</string>
+    <string name="add_items_to_cart">Add Items to Cart</string>
+    <string name="item_price">Item Price</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_name">Item Name</string>
+    <string name="add_btn">Add Btn</string>
+</resources>
