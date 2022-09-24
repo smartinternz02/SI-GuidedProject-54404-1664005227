@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Nearby Business</string>
+    <string name="API_KEY">AIzaSyDJXm0pi3mJ1XW1gHa9oZPspa8JFqtityw</string>
+    <string name="market">Market</string>
+    <string name="school">School</string>
+    <string name="hospital">Hospital</string>
+    <string name="search_location">Search Location</string>
+</resources>
